@@ -5,7 +5,7 @@ import Main from "./pages/Main/Main";
 import List from "./pages/List/List";
 import Nav from "./pages/Nav/Nav";
 
-const Router = () => {  
+const Router = () => {
   const [office, setOffice] = useState([]);
 
   useEffect(() => {
@@ -22,7 +22,7 @@ const Router = () => {
       <Nav />
       <Routes>
         <Route path='/' element={<Main/>}/>
-        <Route path='/list' element={<List/>}/>
+        <Route path='/list' element={<List office={office}/>}/>
       </Routes>
     </>
   )

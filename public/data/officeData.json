@@ -4,8 +4,11 @@
       "id" : 1,
       "title" : "위워크",
       "special" : "맥주 4종 무제한 제공",
-      "promotion": "",
+      "promotion": "지금 등록하고 9월 1일까지 프라이빗 오피스를 무료로 이용하세요",
+      "single" : "라운지 및 1인실 추천",
+      "corporation" : "다인실 및 입주견적 문의 추천",
       "page_url" : "https://www.wework.com/ko-KR",
+      "place_url": "https://map.naver.com/v5/search/%EC%9C%84%EC%9B%8C%ED%81%AC?c=14131414.3060501,4514185.8142336,10.3,0,0,0,dh",
       "place" : [
         {
           "place_id" : 1,
@@ -16,6 +19,856 @@
           "place_id" : 2,
           "place_title" : "홍대",
           "place_address": "서울 마포구 양화로 147 4층"
+        },
+        {
+          "place_id" : 3,
+          "place_title" : "서울스퀘어",
+          "place_address": "서울 중구 한강대로 416 서울스퀘어 13층"
+        },
+        {
+          "place_id" : 4,
+          "place_title" : "광화문",
+          "place_address": "서울 종로구 종로1길 50 더케이트윈타워 2층"
+        },
+        {
+          "place_id" : 5,
+          "place_title" : "을지로",
+          "place_address": "서울 중구 삼일대로 343 대신파이낸스센터 8층"
+        },
+        {
+          "place_id" : 6,
+          "place_title" : "신사",
+          "place_address": "서울 강남구 강남대로 586 1층"
+        },
+        {
+          "place_id" : 7,
+          "place_title" : "신논현",
+          "place_address": "서울 서초구 서초대로 77길 55 에이프로스퀘어 6층"
+        },
+        {
+          "place_id" : 8,
+          "place_title" : "강남역",
+          "place_address": "서울 서초구 강남대로 373 홍우빌딩 10층"
+        },
+        {
+          "place_id" : 9,
+          "place_title" : "강남역2호점",
+          "place_address": "서울 강남구 테헤란로5길 7 10층"
+        },
+        {
+          "place_id" : 10,
+          "place_title" : "역삼역",
+          "place_address": "서울 강남구 테헤란로 142 캐피탈타워 3층"
+        },
+        {
+          "place_id" : 11,
+          "place_title" : "역삼역2호점",
+          "place_address": "서울 강남구 테헤란로26길 14 대세빌딩 1층"
+        },
+        {
+          "place_id" : 12,
+          "place_title" : "선릉",
+          "place_address": "서울 강남구 테헤란로 302 위워크타워 지하1층"
+        },
+        {
+          "place_id" : 13,
+          "place_title" : "선릉2호점",
+          "place_address": "서울 강남구 테헤란로 427 위워크타워 1층"
+        },
+        {
+          "place_id" : 14,
+          "place_title" : "선릉3호점",
+          "place_address": "서울 강남구 선릉로 428 2층"
+        },
+        {
+          "place_id" : 15,
+          "place_title" : "디자이너클럽",
+          "place_address": "서울 강남구 선릉로 818 6층"
+        },
+        {
+          "place_id" : 16,
+          "place_title" : "삼성역",
+          "place_address": "서울 강남구 테헤란로 507 WeWork빌딩 지하1층"
+        },
+        {
+          "place_id" : 17,
+          "place_title" : "삼성역2호점",
+          "place_address": "서울 강남구 테헤란로 518 10층"
+        },
+        {
+          "place_id" : 18,
+          "place_title" : "서면",
+          "place_address": "부산 부산진구 서전로 8 3층"
+        },
+        {
+          "place_id" : 19,
+          "place_title" : "BIFC",
+          "place_address": "부산 남구 전포대로 133 11층"
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "title" : "패스트파이브",
+      "special" : "시리얼 제공",
+      "promotion": "중대형 사무실 사전계약 최대 30% 할인",
+      "single" : "1인실 및 파이브스팟 이용 추천",
+      "corporation" : "다인실 및 입주견적 문의 추천",
+      "page_url" : "https://www.fastfive.co.kr/#enp_mbris",
+      "place_url": "https://map.naver.com/v5/search/%ED%8C%A8%EC%8A%A4%ED%8A%B8%ED%8C%8C%EC%9D%B4%EB%B8%8C?c=14132193.2799496,4513100.7139044,11.41,0,0,0,dh",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "서울숲점",
+          "place_address": "서울 성동구 왕십리로 125 KD운송타워 2-12층 (메인라운지 2층)"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "시청2호점",
+          "place_address": "서울 중구 서소문로 89-20 삼정 아트테라스 정동 B2층"
+        },
+        {
+          "place_id" : 3,
+          "place_title" : "역삼4호점",
+          "place_address": "서울 강남구 테헤란로25길 46 서울빌딩 B1,2-5층 (메인라운지 2층)"
+        },
+        {
+          "place_id" : 4,
+          "place_title" : "신논현 2호점",
+          "place_address": "서울 강남구 강남대로 484 99빌딩 L1층, 4-8층 (메인라운지 L1층)"
+        },
+        {
+          "place_id" : 5,
+          "place_title" : "선정릉점",
+          "place_address": "서울 강남구 봉은사로 314 지하1층"
+        },
+        {
+          "place_id" : 6,
+          "place_title" : "사당점",
+          "place_address": "서울 관악구 남현3길 61 B1-5층 (메인라운지 B1층)"
+        },
+        {
+          "place_id" : 7,
+          "place_title" : "삼성4호점",
+          "place_address": "서울 강남구 영동대로106길 11 현성빌딩 B1-5층 (메인라운지 B1층)"
+        },
+        {
+          "place_id" : 8,
+          "place_title" : "한남점",
+          "place_address": "서울 용산구 이태원로 200 제니타스빌딩 3-6층 (메인라운지 3층)"
+        },
+        {
+          "place_id" : 9,
+          "place_title" : "강남5호점",
+          "place_address": "서울 강남구 테헤란로2길 27 패스트파이브 빌딩 8-15층 (메인라운지 8층)"
+        },
+        {
+          "place_id" : 10,
+          "place_title" : "강남4호점",
+          "place_address": "서울 강남구 강남대로94길 10 케이스퀘어 6-12층 (메인라운지 12층)"
+        },
+        {
+          "place_id" : 11,
+          "place_title" : "역삼역2호점",
+          "place_address": "서울 강남구 테헤란로26길 14 대세빌딩 1층"
+        },
+        {
+          "place_id" : 12,
+          "place_title" : "합정점",
+          "place_address": "서울 마포구 양화로 81 삼성화재빌딩 B1, 3-5층(메인라운지 B1층)"
+        },
+        {
+          "place_id" : 13,
+          "place_title" : "홍대1호점",
+          "place_address": "서울 마포구 양화로 161 케이스퀘어 5-8층 (메인라운지 5층)"
+        },
+        {
+          "place_id" : 14,
+          "place_title" : "선릉2호점",
+          "place_address": "서울 강남구 테헤란로 242 아이타워 B1,2-15층 (메인라운지 2층)"
+        },
+        {
+          "place_id" : 15,
+          "place_title" : "광화문점",
+          "place_address": "서울 종로구 청계천로 11 청계한국빌딩 8,10층"
+        },
+        {
+          "place_id" : 16,
+          "place_title" : "삼성1호점",
+          "place_address": "서울 강남구 테헤란로87길 36 도심공항타워 24층"
+        },
+        {
+          "place_id" : 17,
+          "place_title" : "방배점",
+          "place_address": "서울 서초구 방배로 192 B1층, 2-4층"
+        },
+        {
+          "place_id" : 18,
+          "place_title" : "역삼3호점",
+          "place_address": "서울 강남구 테헤란로 151 역삼하이츠빌딩 3-7층 (메인라운지 3층)"
+        },
+        {
+          "place_id" : 19,
+          "place_title" : "서초점",
+          "place_address": "서울 서초구 남부순환로333길 10 원일빌딩 1-3층 (메인라운지 1층)"
+        },
+        {
+          "place_id" : 20,
+          "place_title" : "명동점",
+          "place_address": "서울 중구 남대문로7길 16 한국빌딩 2,4,5층 (메인라운지 2층)"
+        },
+        {
+          "place_id" : 21,
+          "place_title" : "강남1호점",
+          "place_address": "서울 강남구 강남대로 382 메리츠타워 17, 18층 (메인라운지 17층)"
+        },
+        {
+          "place_id" : 22,
+          "place_title" : "교대점",
+          "place_address": "서울 서초구 반포대로30길 81 웅진타워 11-12층 (메인라운지 11층)"
+        },
+        {
+          "place_id" : 23,
+          "place_title" : "신사점",
+          "place_address": "서울 강남구 도산대로 145 인우빌딩 3-5,9,11-13층 (메인라운지 3층)"
+        },
+        {
+          "place_id" : 24,
+          "place_title" : "시청1호점",
+          "place_address": "서울 중구 남대문로9길 24 패스트파이브 타워 3-12층 (메인라운지 12층)"
+        },
+        {
+          "place_id" : 25,
+          "place_title" : "강남2호점",
+          "place_address": "서울 강남구 강남대로 364 미왕빌딩 12-17층 (메인라운지 12층)"
+        },
+        {
+          "place_id" : 26,
+          "place_title" : "을지로점",
+          "place_address": "서울 중구 청계천로 100 시그니쳐타워 서관 9-11층 (메인라운지 9층)"
+        },
+        {
+          "place_id" : 27,
+          "place_title" : "서울역점",
+          "place_address": "서울 용산구 한강대로 366 트윈시티 남산 2,6-9층 (메인라운지 2층)"
+        },
+        {
+          "place_id" : 28,
+          "place_title" : "용산점",
+          "place_address": "서울 용산구 서빙고로 17센트럴파크타워 23층"
+        },
+        {
+          "place_id" : 29,
+          "place_title" : "성수2호점",
+          "place_address": "서울 성동구 성수일로8길 55 A동 4-8층, B동 7-8층"
+        },
+        {
+          "place_id" : 30,
+          "place_title" : "성수1호점",
+          "place_address": "서울 성동구 아차산로 68 에이유타워 B1-2,5-12층 (메인라운지 1층)"
+        },
+        {
+          "place_id" : 31,
+          "place_title" : "삼성3호점",
+          "place_address": "서울 강남구 테헤란로 503 하이브로빌딩 5-15층 (메인라운지 10층)"
+        },
+        {
+          "place_id" : 32,
+          "place_title" : "영등포점",
+          "place_address": "서울 영등포구 영중로 15 타임스퀘어 오피스A동 20층"
+        },
+        {
+          "place_id" : 33,
+          "place_title" : "구로점",
+          "place_address": "서울 구로구 디지털로 300 지밸리 비즈 프라자 12,13층 (메인라운지 12층)"
+        },
+        {
+          "place_id" : 34,
+          "place_title" : "역삼1호점",
+          "place_address": "서울 강남구 역삼로17길 51 중경미드타운센터 5,6층 (메인라운지 6층)"
+        },
+        {
+          "place_id" : 35,
+          "place_title" : "홍대2호점",
+          "place_address": "서울 마포구 와우산로23길 20 가나평안빌딩 B1-5층 (메인라운지 1층)"
+        },
+        {
+          "place_id" : 36,
+          "place_title" : "혜화점",
+          "place_address": "서울 종로구 대학로8가길 64 B1 2층~5층"
+        },
+        {
+          "place_id" : 37,
+          "place_title" : "신논현1호점",
+          "place_address": "서울 강남구 강남대로 464 비제바노빌딩 3-6층 (메인라운지 3층)"
+        },
+        {
+          "place_id" : 38,
+          "place_title" : "선릉1호점",
+          "place_address": "서울 강남구 테헤란로 419 강남파이낸스플라자 15-17층 (메인라운지 15층)"
+        },
+        {
+          "place_id" : 39,
+          "place_title" : "역삼2호점",
+          "place_address": "서울 강남구 테헤란로 146 현익빌딩 12, 13층 (메인라운지 12층)"
+        },
+        {
+          "place_id" : 40,
+          "place_title" : "삼성2호점",
+          "place_address": "서울 강남구 테헤란로 501 브이플렉스 2-7층 (메인라운지 3층)"
+        },
+        {
+          "place_id" : 41,
+          "place_title" : "여의도점",
+          "place_address": "서울 영등포구 국제금융로2길 17 시티플라자 4~7층 (메인라운지 5층)"
+        },
+        {
+          "place_id" : 42,
+          "place_title" : "강남3호점",
+          "place_address": "서울 서초구 서초대로 398 BNK 디지털 타워 4-7층 (메인라운지 4층)"
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "title" : "파이브스팟(패스트파이브)",
+      "special" : "시리얼 제공",
+      "promotion": "3개월 한번에 결제시 할인",
+      "single" : "라운지만 이용하고 싶은 회원 전용 맴버십",
+      "corporation" : "대상없음",
+      "page_url" : "https://fivespot.io/?gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr-Qr4iXW8JPLspUSEIxHQg-tIrknS1GfBtBEa6KlvJDagiYOYk2ymUaAosKEALw_wcB",
+      "place_url": "https://map.naver.com/v5/search/%ED%8C%8C%EC%9D%B4%EB%B8%8C%EC%8A%A4%ED%8C%9F?c=14131709.3652045,4513644.5575817,11.13,0,0,0,dh",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "반포",
+          "place_address": "서울 서초구 서초중앙로 217 대동빌딩 1층"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "역삼",
+          "place_address": "서울 강남구 테헤란로25길 46 서울빌딩 2층"
+        },
+        {
+          "place_id" : 3,
+          "place_title" : "선릉",
+          "place_address": "서울 강남구 테헤란로 242 아이타워 B1, 2층"
+        },
+        {
+          "place_id" : 4,
+          "place_title" : "서초",
+          "place_address": "서울 서초구 남부순환로333길 10 원일빌딩 1층"
+        },
+        {
+          "place_id" : 5,
+          "place_title" : "선정릉",
+          "place_address": "서울 강남구 봉은사로 314 B1층"
+        },
+        {
+          "place_id" : 6,
+          "place_title" : "삼성",
+          "place_address": "서울 강남구 테헤란로 501 브이플렉스 6층"
+        },
+        {
+          "place_id" : 7,
+          "place_title" : "한남",
+          "place_address": "서울 용산구 이태원로 200 제니타스빌딩 3층"
+        },
+        {
+          "place_id" : 8,
+          "place_title" : "용산",
+          "place_address": "서울 용산구 서빙고로 17 센트럴파크타워 23층"
+        },
+        {
+          "place_id" : 9,
+          "place_title" : "서울숲",
+          "place_address": "서울 성동구 왕십리로 125 KD타워 2층"
+        },
+        {
+          "place_id" : 10,
+          "place_title" : "서울역",
+          "place_address": "서울 용산구 한강대로 366 트윈시티 남산 2층"
+        },
+        {
+          "place_id" : 11,
+          "place_title" : "여의도",
+          "place_address": "서울 영등포구 국제금융로2길 17 시티플라자 7층"
+        },
+        {
+          "place_id" : 12,
+          "place_title" : "시청",
+          "place_address": "서울 중구 서소문로 89-20 삼정아트테라스 정동 B2층"
+        },
+        {
+          "place_id" : 13,
+          "place_title" : "영등포",
+          "place_address": "서울 영등포구 영중로 15 타임스퀘어 오피스A동 20층"
+        },
+        {
+          "place_id" : 14,
+          "place_title" : "합정",
+          "place_address": "서울 마포구 양화로 81 삼성화재빌딩 B1층"
+        },
+        {
+          "place_id" : 15,
+          "place_title" : "홍대",
+          "place_address": "서울 마포구 와우산로23길 20 상도빌딩 B1,1,5층"
+        },
+        {
+          "place_id" : 16,
+          "place_title" : "구로",
+          "place_address": "서울 구로구 디지털로 300 지밸리비즈플라자 12층"
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "title" : "스파크플러스",
+      "special" : "여름한정 아이스티 메뉴 제공",
+      "promotion": "8월 오피스 특가 진행 중",
+      "single" : "1인실 및 라운지 이용만 추천 (라운지 깔끔)",
+      "corporation" : "다인실 및 입주견적 문의 추천",
+      "page_url" : "https://sparkplus.co/",
+      "place_url": "https://map.naver.com/v5/search/%EC%8A%A4%ED%8C%8C%ED%81%AC%ED%94%8C%EB%9F%AC%EC%8A%A4?c=14131709.3652045,4513644.5575817,11.13,0,0,0,dh",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "분당2호점",
+          "place_address": "경기 성남시 분당구 황새울로 216 휴맥스빌리지 2층 커뮤니티데스크"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "신논현점",
+          "place_address": "서울 강남구 봉은사로 125 리스트빌딩 B2~B1F, 2F 커뮤니티데스크"
+        },
+        {
+          "place_id" : 3,
+          "place_title" : "선릉2호점",
+          "place_address": "서울 강남구 테헤란로 418 11층 스파크플러스 선릉2호점"
+        },
+        {
+          "place_id" : 4,
+          "place_title" : "강남3호점",
+          "place_address": "서울 강남구 테헤란로 123 여삼빌딩"
+        },
+        {
+          "place_id" : 5,
+          "place_title" : "동대문점",
+          "place_address": "서울 중구 을지로 264 11~12층"
+        },
+        {
+          "place_id" : 6,
+          "place_title" : "강남5호점",
+          "place_address": "서울 강남구 테헤란로7길 22 한국과학기술회관 2관 8-10층"
+        },
+        {
+          "place_id" : 7,
+          "place_title" : "분당점",
+          "place_address": "경기 성남시 분당구 정자로 2 1F 커뮤니티데스크"
+        },
+        {
+          "place_id" : 8,
+          "place_title" : "선릉3호점",
+          "place_address": "서울 강남구 선릉로93길 40 1층 스파크플러스(역삼동, 나라키움역삼A빌딩)"
+        },
+        {
+          "place_id" : 9,
+          "place_title" : "선릉점",
+          "place_address": "서울 강남구 테헤란로 415 L7HOTEL 강남타워 2층"
+        },
+        {
+          "place_id" : 10,
+          "place_title" : "강남점",
+          "place_address": "서울 서초구 강남대로 327 16층 스파크플러스 강남점"
+        },
+        {
+          "place_id" : 11,
+          "place_title" : "강남4호점",
+          "place_address": "서울 서초구 서초대로77길 17 11~14층, 커뮤니티데스크 11층"
+        },
+        {
+          "place_id" : 12,
+          "place_title" : "삼성2호점",
+          "place_address": "서울 강남구 영동대로85길 34 스파크플러스 삼성2호점"
+        },
+        {
+          "place_id" : 13,
+          "place_title" : "삼성점",
+          "place_address": "서울 강남구 테헤란로87길 29 M타워 8층"
+        },
+        {
+          "place_id" : 14,
+          "place_title" : "강남2호점",
+          "place_address": "서울 서초구 서초대로 396 강남빌딩 2층"
+        },
+        {
+          "place_id" : 15,
+          "place_title" : "을지로점",
+          "place_address": "서울 중구 을지로 50 17층 스파크플러스 을지로점"
+        },
+        {
+          "place_id" : 16,
+          "place_title" : "강남6호점",
+          "place_address": "서울 강남구 강남대로 374 케이스퀘어 강남2 지하2층 커뮤니티데스크"
+        },
+        {
+          "place_id" : 17,
+          "place_title" : "역삼2호점",
+          "place_address": "서울 강남구 논현로98길 28"
+        },
+        {
+          "place_id" : 18,
+          "place_title" : "성수점",
+          "place_address": "서울 성동구 연무장15길 11 에스팩토리 B동 2층"
+        },
+        {
+          "place_id" : 19,
+          "place_title" : "성수2호점",
+          "place_address": "서울 성동구 아차산로 38 개풍빌딩"
+        },
+        {
+          "place_id" : 20,
+          "place_title" : "시청점",
+          "place_address": "서울 중구 남대문로9길 40 23층 스파크플러스 시청점"
+        },
+        {
+          "place_id" : 21,
+          "place_title" : "방배점",
+          "place_address": "서울 서초구 방배로 180 1F 커뮤니티데스크"
+        },
+        {
+          "place_id" : 22,
+          "place_title" : "역삼3호점",
+          "place_address": "서울 강남구 테헤란로27길 18 2F ~ 8F (커뮤니티데스크 2F)"
+        },
+        {
+          "place_id" : 23,
+          "place_title" : "을지로센터원점",
+          "place_address": "서울 중구 을지로5길 26 미래에셋 센터원 빌딩 동관 2층"
+        },
+        {
+          "place_id" : 24,
+          "place_title" : "역삼점",
+          "place_address": "서울 강남구 테헤란로 201 아주빌딩 2층 06141"
+        },
+        {
+          "place_id" : 25,
+          "place_title" : "광화문점",
+          "place_address": "서울 종로구 종로3길 17 B1F & B2F (지하1층 커뮤니티데스크)"
+        },
+        {
+          "place_id" : 26,
+          "place_title" : "잠실점",
+          "place_address": "서울 송파구 올림픽로 240 롯데웰빙센터 1F 커뮤니티데스크"
+        }
+      ]
+    },
+    {
+      "id" : 5,
+      "title" : "스플라운지(스파크플러스)",
+      "special" : "스플라운지 전용 공간 1인석 듀얼모니터 있음",
+      "promotion": "3개월 동안 월 할인 제공",
+      "single" : "라운지만 이용하는 개인회원 전용 맴버십",
+      "corporation" : "대상없음",
+      "page_url" : "https://sparkplus.co/sploungepass/",
+      "place_url": "https://map.naver.com/v5/search/%EC%8A%A4%ED%94%8C%EB%9D%BC%EC%9A%B4%EC%A7%80?c=14134116.1168665,4513520.1178801,12.27,0,0,0,dh",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "여의도파크원",
+          "place_address": "서울 영등포구 여의대로 108 파크원타워1 4F 스플라운지"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "영등포구청역",
+          "place_address": "서울 영등포구 양산로 116 523-402호 523-403호"
+        },
+        {
+          "place_id" : 3,
+          "place_title" : "공덕역",
+          "place_address": "서울 마포구 마포대로 100 529-130,131,132,133,113,134호"
+        },
+        {
+          "place_id" : 4,
+          "place_title" : "내방역",
+          "place_address": "서울 서초구 방배로 180 지하 1F 스플라운지 내방역"
+        },
+        {
+          "place_id" : 5,
+          "place_title" : "홍대입구역",
+          "place_address": "서울 마포구 양화로 186 LC타워 5층, 6층"
+        },
+        {
+          "place_id" : 6,
+          "place_title" : "삼성역",
+          "place_address": "서울 강남구 영동대로85길 34 2,3,9층"
+        },
+        {
+          "place_id" : 7,
+          "place_title" : "성수역",
+          "place_address": "서울 성동구 연무장15길 11 에스팩토리 B동 2층"
+        },
+        {
+          "place_id" : 8,
+          "place_title" : "광화문디타워",
+          "place_address": "서울 종로구 종로3길 17 B2F 스플라운지 광화문디타워"
+        },
+        {
+          "place_id" : 9,
+          "place_title" : "시청역",
+          "place_address": "서울 중구 남대문로9길 40 센터플레이스 23층"
+        },
+        {
+          "place_id" : 10,
+          "place_title" : "신논현역",
+          "place_address": "서울 강남구 봉은사로 125 리스트빌딩 2F 스플라운지 신논현역"
+        },
+        {
+          "place_id" : 11,
+          "place_title" : "왕십리역",
+          "place_address": "서울 성동구 왕십리로 300 540-401호"
+        },
+        {
+          "place_id" : 12,
+          "place_title" : "강남역2",
+          "place_address": "서울 강남구 강남대로 374 케이스퀘어 강남2 지하2층 스플라운지"
+        },
+        {
+          "place_id" : 13,
+          "place_title" : "을지로센터원",
+          "place_address": "서울 중구 을지로5길 26 미래에셋센터원 빌딩 동관 2층"
+        },
+        {
+          "place_id" : 14,
+          "place_title" : "선릉역",
+          "place_address": "서울 강남구 선릉로93길 40 나라키움역삼A빌딩 1~2층"
+        },
+        {
+          "place_id" : 15,
+          "place_title" : "역삼역",
+          "place_address": "서울 강남구 논현로98길 28 지하1층, 1층 스플라운지"
+        },
+        {
+          "place_id" : 16,
+          "place_title" : "잠실롯데월드",
+          "place_address": "서울 송파구 올림픽로 240 롯데웰빙센터 1F"
+        },
+        {
+          "place_id" : 17,
+          "place_title" : "마들역",
+          "place_address": "서울 노원구 동일로 1530-1 712-113호"
+        },
+        {
+          "place_id" : 18,
+          "place_title" : "강남역1",
+          "place_address": "서울 서초구 서초대로77길 17 11~12층 스플라운지 강남역1"
+        },
+        {
+          "place_id" : 19,
+          "place_title" : "뚝섬역",
+          "place_address": "서울 성동구 아차산로 38 개풍빌딩 1층 스플라운지 뚝섬역"
+        },
+        {
+          "place_id" : 20,
+          "place_title" : "정자역",
+          "place_address": "경기 성남시 분당구 정자로 2 1F 스플라운지 정자역"
+        }
+      ]
+    },
+    {
+      "id" : 6,
+      "title" : "집무실",
+      "special" : "디자인이 매우 감각적임(특징없음)",
+      "promotion": "3일 무료체험 제공",
+      "single" : "개인업무 회원에 적합 (가격이 조금 비싼편)",
+      "corporation" : "인원 규모가 있는 기업은 힘들거 같음",
+      "page_url" : "https://www.jibmusil.com/",
+      "place_url": "https://map.naver.com/v5/search/%EC%A7%91%EB%AC%B4%EC%8B%A4?c=14127155.0426285,4514471.8384839,10.68,0,0,0,dh",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "석촌점",
+          "place_address": "서울시 송파구 송파대로 403 석촌 제이시너지타워 3-4층"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "정동본점",
+          "place_address": "서울 중구 세종대로19길 16 성공회빌딩 1층"
+        },
+        {
+          "place_id" : 3,
+          "place_title" : "서울대점",
+          "place_address": "서울특별시 관악구 관악로 144 우남네오폴리스 2층"
+        },
+        {
+          "place_id" : 4,
+          "place_title" : "목동점",
+          "place_address": "서울시 양천구 신목로 59 엠제이스위트 1층"
+        },
+        {
+          "place_id" : 5,
+          "place_title" : "공덕점",
+          "place_address": "서울시 마포구 공덕동 479 공덕SK리더스뷰, 114호"
+        },
+        {
+          "place_id" : 6,
+          "place_title" : "왕십리점",
+          "place_address": "서울시 성동구 고산자로14길 26 지웰홈스 1층"
+        },
+        {
+          "place_id" : 7,
+          "place_title" : "일산점",
+          "place_address": "고양시 일산동 중앙로 1228 KT고양타워 기계동 3층"
+        }
+      ]
+    },
+    {
+      "id" : 7,
+      "title" : "스테이지나인",
+      "special" : "특징없음",
+      "promotion": "8월 송도, 테헤란로 프로모션, 지인소개 프로모션",
+      "single" : "비상주 맴버십 가능",
+      "corporation" : "입주사 견적문의 추천",
+      "page_url" : "https://www.stage9.co.kr/",
+      "place_url": "https://map.naver.com/v5/search/%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%EB%82%98%EC%9D%B8?c=14065993.3537725,4381494.3750015,6.7,0,0,0,dh",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "강남1호점",
+          "place_address": "서울 서초구 서초대로 396 17층"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "강남2호점",
+          "place_address": "서울 서초구 강남대로61길 17 1~4층"
+        },
+        {
+          "place_id" : 3,
+          "place_title" : "삼성점",
+          "place_address": "서울 강남구 테헤란로79길 6 제이에스타워 1,3,4,5,9층"
+        },
+        {
+          "place_id" : 4,
+          "place_title" : "송도 포스코타워점",
+          "place_address": "인천 연수구 컨벤시아대로 165 포스코타워송도 26층"
+        },
+        {
+          "place_id" : 5,
+          "place_title" : "송도 센트로드점",
+          "place_address": "인천 연수구 인천타워대로 323 B동 30층"
+        },
+        {
+          "place_id" : 6,
+          "place_title" : "광주 금남점",
+          "place_address": "광주 동구 금남로 193-22 1~6층"
+        }
+      ]
+    },
+    {
+      "id" : 8,
+      "title" : "위플레이스",
+      "special" : "전시 및 작가 초대전",
+      "promotion": "2022 하반기 장기할인",
+      "single" : "오픈데스크 이용 추천 2인실 부터 가격이 확 올라감",
+      "corporation" : "입주사 견적문의 추천",
+      "page_url" : "http://weplace.biz/",
+      "place_url": "https://map.naver.com/v5/search/%EC%9C%84%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4?c=14140767.8750675,4508624.8545319,13.38,0,0,0,dh",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "강남본점",
+          "place_address": "서울시 강남구 강남대로 340, 경원빌딩 3층"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "강남점",
+          "place_address": "서울시 서초구 서초동 1316 - 29 B1"
+        },
+        {
+          "place_id" : 3,
+          "place_title" : "선릉점",
+          "place_address": "서울시 강남구 선릉로 91길 18 동현빌딩 4층"
+        },
+        {
+          "place_id" : 4,
+          "place_title" : "신논현점",
+          "place_address": "서울시 강남구 봉은사로 16길 31 1층"
+        },
+        {
+          "place_id" : 5,
+          "place_title" : "역삼점",
+          "place_address": "서울시 강남구 논현로 87길 25 HB빌딩 8층"
+        },
+        {
+          "place_id" : 6,
+          "place_title" : "갤러리카페 베로나",
+          "place_address": "서울시 종로구 경희궁1길 33-32 5빌딩"
+        }
+      ]
+    },
+    {
+      "id" : 9,
+      "title" : "무신사스튜디오",
+      "special" : "패션특화 공유오피스 / 저렴한 택배비",
+      "promotion": "지점마다 이달의 특가 이벤트 진행 중",
+      "single" : "패션업 관련 종사자 추천",
+      "corporation" : "입주사 견적문의 추천",
+      "page_url" : "https://www.musinsastudio.com/home.index.html",
+      "place_url": "https://map.naver.com/v5/search/%EB%AC%B4%EC%8B%A0%EC%82%AC%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4?c=14137562.5165410,4513773.1938661,11.86,0,0,0,dh",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "동대문점",
+          "place_address": "서울특별시 중구 장충단로 13길 20, 12층"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "한남점",
+          "place_address": "서울특별시 용산구 이태원로 191, 4층"
+        },
+        {
+          "place_id" : 3,
+          "place_title" : "성수점",
+          "place_address": "서울특별시 성동구 아차산로 104, 3층"
+        }
+      ]
+    },
+    {
+      "id" : 10,
+      "title" : "워크플렉스(롯데)",
+      "special" : "롯데월드타워 입주 & 2021 공유오피스 부문 대상",
+      "promotion": "롯데계열사 할인",
+      "single" : "지정석 없이 자유로운 데스크(핫데스크) 운영",
+      "corporation" : "입주사 견적문의 추천",
+      "page_url" : "https://www.theworkflex.com/",
+      "place_url": "https://map.naver.com/v5/search/%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A0%89%EC%8A%A4?c=14143080.8662129,4508797.5793181,12.75,0,0,0,dh",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "역삼",
+          "place_address": "서울 강남구 129 8층, 강남N타워"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "롯데월드타워",
+          "place_address": "서울 특별시 송파구 올림픽로 300, 롯데월드타워 30F"
+        }
+      ]
+    },
+    {
+      "id" : 11,
+      "title" : "에이다룸",
+      "special" : "비상주와 올데이패스를 지양 멤버에게만 집중",
+      "promotion": "프로모션 없음",
+      "single" : "문의 추천",
+      "corporation" : "입주사 견적문의 추천",
+      "page_url" : "https://adaroom.kr/index.php",
+      "place_url": "https://map.naver.com/v5/search/%EC%97%90%EC%9D%B4%EB%8B%A4%EB%A3%B8/place/1894570936?c=14141635.2182526,4508285.3551286,12.75,0,0,0,dh&isCorrectAnswer=true",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "강남",
+          "place_address": "서울 강남구 테헤란로8길 21 화인강남빌딩 8,10층 (리셉션 8층)"
         }
       ]
     }

@@ -3,10 +3,10 @@ import ListCard from "./components/ListCard/ListCard";
 import './List.scss';
 
 
-const List = () => {
+const List = ({office}) => {
   return (
     <div className="List">
-      <ListCard />
+      <ListCard officelist={office}/>
     </div>
   )
 }

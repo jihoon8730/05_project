@@ -1,0 +1,23 @@
+{
+  "result" : [
+    {
+      "id" : 1,
+      "title" : "위워크",
+      "special" : "맥주 4종 무제한 제공",
+      "promotion": "",
+      "page_url" : "https://www.wework.com/ko-KR",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "여의도역",
+          "place_address": "서울 영등포구 의사당대로 83 오투타워 20층"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "홍대",
+          "place_address": "서울 마포구 양화로 147 4층"
+        }
+      ]
+    }
+  ]
+}

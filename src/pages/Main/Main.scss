@@ -1,0 +1,64 @@
+@import "~bootstrap/scss/bootstrap";
+
+.Main {
+  width: 1300px;
+  height: auto;
+  margin: 0px auto;
+
+  .main-silde {
+    width: 100%;
+  }
+
+  .best-office {
+    margin-top: 40px;
+    width: 1300px;
+    height: 400px;
+  }
+
+  .office-introduction {
+    width: 1300px;
+    height: 600px;
+
+    .comment-all {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    .comment-all-right {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+    
+    .introduction-title {
+      font-size: 30px;
+      text-align: center;
+    }
+
+    .comment-section {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 500px;
+      margin-top: 20px;
+      padding: 0px 20px;
+      border: 1px solid rgb(215, 215, 215);
+      border-radius: 5px;
+      box-shadow: 1px 1px 3px rgb(181, 181, 181);
+
+      .comment {
+        font-size: 20px;
+      }
+    }
+
+    .images {
+      width: 150px;
+      border-radius: 5px;
+      margin-left: 20px;
+    }
+
+    
+  }
+}
+

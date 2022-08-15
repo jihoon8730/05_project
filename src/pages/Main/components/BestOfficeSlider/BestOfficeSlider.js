@@ -16,8 +16,8 @@ const BestOfficeSlider = () => {
     autoplaySpeed: 3000,
   };
   return (
-      <div>
-        <h2>인기 공유오피스</h2>
+      <>
+        <h2 className="title">인기 공유오피스</h2>
         <Slider {...settings} className="wrap">
           <div className="sliders">
             <div className="slider">
@@ -68,7 +68,7 @@ const BestOfficeSlider = () => {
             </div>
           </div>
         </Slider>
-      </div>
+      </>
     );
 }
 

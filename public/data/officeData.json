@@ -871,6 +871,306 @@
           "place_address": "서울 강남구 테헤란로8길 21 화인강남빌딩 8,10층 (리셉션 8층)"
         }
       ]
+    },
+    {
+      "id" : 12,
+      "title" : "마이워크스페이스",
+      "special" : "홈페이지 업데이트가 잘 안되는거 같습니다 꼭 문의 후 방문 바랍니다",
+      "promotion": "일시불 결제 시 할인 혜택",
+      "single" : "비상주 서비스(가상사무실) 운영 및 문의 추천",
+      "corporation" : "입주사 견적문의 추천",
+      "page_url" : "https://www.myworkspace.co.kr/",
+      "place_url": "https://map.naver.com/v5/search/%EB%A7%88%EC%9D%B4%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4?c=14137678.5259614,4507639.5407661,12.02,0,0,0,dh&isCorrectAnswer=true",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "강남역2호점",
+          "place_address": "서울 강남구 테헤란로2길 8, 4F~5F"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "강남역3호점",
+          "place_address": "서울 서초구 강남대로 369 A+에셋 빌딩, 12F"
+        },
+        {
+          "place_id" : 3,
+          "place_title" : "강남역4호점",
+          "place_address": "서울 서초구 서초동 강남대로 53길 8"
+        },
+        {
+          "place_id" : 4,
+          "place_title" : "관악S밸리",
+          "place_address": "서울 관악구 호암로 597"
+        }
+      ]
+    },
+    {
+      "id" : 13,
+      "title" : "스테이션니오",
+      "special" : "특징 없음",
+      "promotion": "프로모션 없음",
+      "single" : "비상주 서비스 문의 추천",
+      "corporation" : "입주사 견적문의 추천",
+      "page_url" : "https://www.stationneo.com/",
+      "place_url": "https://map.naver.com/v5/search/%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%98%EB%8B%88%EC%98%A4/place/1386117767?c=14142125.3794159,4515796.7530127,12.74,0,0,0,dh&isCorrectAnswer=true",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "본점",
+          "place_address": "서울특별시 성동구 성수일로8길 59, 7층"
+        }
+      ]
+    },
+    {
+      "id" : 14,
+      "title" : "플래그원",
+      "special" : "LG계열사 서브원이 운영 & LG관련 배네핏",
+      "promotion": "프로모션 없음",
+      "single" : "투어신청 추천",
+      "corporation" : "입주사 견적문의 추천",
+      "page_url" : "https://flagone.co.kr/home/homeMain.do",
+      "place_url": "https://map.naver.com/v5/search/%ED%94%8C%EB%9E%98%EA%B7%B8%EC%9B%90?c=14132707.6218901,4513152.4591964,11.65,0,0,0,dh&isCorrectAnswer=true",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "강남캠프",
+          "place_address": "서울시 강남구 남부순환로 2621 디앤오 강남빌딩 11-13층"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "서울역캠프",
+          "place_address": "서울시 중구 통일로 10 연세 세브란스빌딩 17-18층"
+        }
+      ]
+    },
+    {
+      "id" : 15,
+      "title" : "가라지(GARAGE)",
+      "special" : "특징 없음",
+      "promotion": "프로모션 없음",
+      "single" : "문의 추천",
+      "corporation" : "입주사 견적문의 추천",
+      "page_url" : "https://thegarage.kr/",
+      "place_url": "https://map.naver.com/v5/search/GARAGE?c=14140550.8357604,4508336.1021380,12.98,0,0,0,dh&isCorrectAnswer=true",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "목포점",
+          "place_address": "전남 목포시 영산로 93-1 3~5층"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "강남점",
+          "place_address": "서울 강남구 테헤란로 128 2,3층"
+        },
+        {
+          "place_id" : 3,
+          "place_title" : "신논현점",
+          "place_address": "서울 서초구 강남대로 479 신논현타워 B1"
+        },
+        {
+          "place_id" : 4,
+          "place_title" : "선정릉점",
+          "place_address": "서울 강남구 선릉로 578 태정빌딩 7층"
+        },
+        {
+          "place_id" : 5,
+          "place_title" : "대전점",
+          "place_address": "대전 서구 둔산대로117번길 66 12층"
+        },
+        {
+          "place_id" : 6,
+          "place_title" : "약수점",
+          "place_address": "서울 중구 동호로14길 19"
+        },
+        {
+          "place_id" : 7,
+          "place_title" : "교대점",
+          "place_address": "서울 서초구 서초중앙로18길 31"
+        }
+      ]
+    },
+    {
+      "id" : 16,
+      "title" : "모아공간구독서비스",
+      "special" : "원데이패스 운영 / 지정석 옵션시 개인 PC 설치",
+      "promotion": "프로모션 없음",
+      "single" : "공용석 및 지정석 이용 추천",
+      "corporation" : "입주사 견적문의 추천",
+      "page_url" : "https://www.bizsquare.co.kr/front",
+      "place_url": "https://map.naver.com/v5/search/%EA%B3%B5%EA%B0%84%EA%B5%AC%EB%8F%85%EC%84%9C%EB%B9%84%EC%8A%A4?c=14138627.1176664,4513187.2160317,11.62,0,0,0,dh",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "을지로입구점",
+          "place_address": "서울 중구 남대문로 117 11층"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "종로",
+          "place_address": "서울 종로구 종로 80-2 3층"
+        },
+        {
+          "place_id" : 3,
+          "place_title" : "신논현",
+          "place_address": "서울 강남구 강남대로 502 8층"
+        },
+        {
+          "place_id" : 4,
+          "place_title" : "언주",
+          "place_address": "서울 강남구 언주로 113길 7 3층/4층"
+        },
+        {
+          "place_id" : 5,
+          "place_title" : "선정릉",
+          "place_address": "서울 강남구 봉은사로 326 8층/9층"
+        },
+        {
+          "place_id" : 6,
+          "place_title" : "역삼",
+          "place_address": "서울 강남구 테헤란로33길 18 5층/6층"
+        },
+        {
+          "place_id" : 7,
+          "place_title" : "강남대로",
+          "place_address": "서울 서초구 강남대로 341 8층"
+        },
+        {
+          "place_id" : 8,
+          "place_title" : "왕십리",
+          "place_address": "서울 성동구 무학봉28길 4-1 4층"
+        }
+      ]
+    },
+    {
+      "id" : 17,
+      "title" : "리저스",
+      "special" : "외국기업 같아보임 꼭 문의 후 방문 추천",
+      "promotion": "프로모션 없음",
+      "single" : "핫데스크(공용석) 이용 추천",
+      "corporation" : "입주사 견적문의 추천",
+      "page_url" : "https://www.regus.co.kr/",
+      "place_url": "https://map.naver.com/v5/search/%EB%A6%AC%EC%A0%80%EC%8A%A4?c=14134437.4911971,4516723.1293403,11.65,0,0,0,dh",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "교보증권센터",
+          "place_address": "서울 영등포구 교보증권 빌딩 10층, 의사당대로97"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "강남역센터",
+          "place_address": "서울 서초대로 396 강남 빌딩 16층"
+        },
+        {
+          "place_id" : 3,
+          "place_title" : "무역센터",
+          "place_address": "서울 강남구 영동대로 511 트레이드 타워 27,30,33층"
+        },
+        {
+          "place_id" : 4,
+          "place_title" : "해성센터",
+          "place_address": "서울 강남구 테헤란로 504 해성빌딩 4층"
+        },
+        {
+          "place_id" : 5,
+          "place_title" : "새말로97",
+          "place_address": "서울 새말로97"
+        },
+        {
+          "place_id" : 6,
+          "place_title" : "동대구역센터",
+          "place_address": "대구광역시 동구 동대구로 489 대구 무역회관 8층"
+        }
+      ]
+    },
+    {
+      "id" : 18,
+      "title" : "스페이시즈",
+      "special" : "외국기업 꼭 문의 후 방문 추천",
+      "promotion": "프로모션 없음",
+      "single" : "비추천",
+      "corporation" : "입주사 견적문의 추천",
+      "page_url" : "https://www.spacesworks.com/kr/",
+      "place_url": "https://map.naver.com/v5/search/%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8B%9C%EC%A6%88/place/1198880610?c=14139836.6922514,4511872.7537424,10.78,0,0,0,dh&isCorrectAnswer=true",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "그랑서울",
+          "place_address": "서울 종로구 종로33 그랑서울 타워1 스페이시즈그랑서울 7층"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "오토웨이타워",
+          "place_address": "서울 오토웨이 타워 지하1층, 1층 영동대로 417"
+        }
+      ]
+    },
+    {
+      "id" : 19,
+      "title" : "하품",
+      "special" : "코리빙스페이스라는 생활중심 오피스 운영",
+      "promotion": "프로모션 없음",
+      "single" : "문의 추천",
+      "corporation" : "105인 사무실까지 운영하는걸로 보임 문의 추천",
+      "page_url" : "https://www.hapoom.co/",
+      "place_url": "https://map.naver.com/v5/search/%ED%95%98%ED%92%88%20%EA%B3%B5%EC%9C%A0%EC%98%A4%ED%94%BC%EC%8A%A4/place/1203646016?c=14133775.2652919,4516311.3829021,10.32,0,0,0,dh&isCorrectAnswer=true",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "그랑서울",
+          "place_address": "서울 종로구 종로33 그랑서울 타워1 스페이시즈그랑서울 7층"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "오토웨이타워",
+          "place_address": "서울 오토웨이 타워 지하1층, 1층 영동대로 417"
+        }
+      ]
+    },
+    {
+      "id" : 20,
+      "title" : "핀포인트",
+      "special" : "백오피스 프로그램을 운영",
+      "promotion": "프로모션 없음",
+      "single" : "문의 추천",
+      "corporation" : "견적 문의 추천",
+      "page_url" : "https://www.ppoint.kr/",
+      "place_url": "https://map.naver.com/v5/search/%ED%95%80%ED%8F%AC%EC%9D%B8%ED%8A%B8?c=14140993.7865004,4512474.7181849,12.78,0,0,0,dh&isCorrectAnswer=true",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "강남",
+          "place_address": "서울 강남구 압구정로 8길 26, 3층"
+        }
+      ]
+    },
+    {
+      "id" : 21,
+      "title" : "토즈워크센터",
+      "special" : "무료체험 해보고 결정하는 프로그램 운영",
+      "promotion": "프로모션 없음",
+      "single" : "18만원 부터 있는 오픈석 추천",
+      "corporation" : "견전 문의 추천",
+      "page_url" : "https://work.toz.co.kr/",
+      "place_url": "https://map.naver.com/v5/search/%ED%86%A0%EC%A6%88%EC%9B%8C%ED%81%AC%EC%84%BC%ED%84%B0?c=14138199.1941693,4514974.6258079,11.53,0,0,0,dh&isCorrectAnswer=true",
+      "place" : [
+        {
+          "place_id" : 1,
+          "place_title" : "강남2호점",
+          "place_address": "서울 강남구 강남대로 320 황하빌딩 5층"
+        },
+        {
+          "place_id" : 2,
+          "place_title" : "선릉점",
+          "place_address": "서울 강남구 테헤란로 52길 21"
+        },
+        {
+          "place_id" : 3,
+          "place_title" : "양재점",
+          "place_address": "서울 서초구 남부순환로 2606 8층"
+        }
+      ]
     }
   ]
 }

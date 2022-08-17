@@ -3,6 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import axios from 'axios';
 import Main from "./pages/Main/Main";
 import List from "./pages/List/List";
+import Detail from "./pages/Detail/Detail";
 import Nav from "./pages/Nav/Nav";
 
 const Router = () => {
@@ -23,6 +24,7 @@ const Router = () => {
       <Routes>
         <Route path='/' element={<Main/>}/>
         <Route path='/list' element={<List office={office}/>}/>
+        <Route path='/detail' element={<Detail/>}/>
       </Routes>
     </>
   )

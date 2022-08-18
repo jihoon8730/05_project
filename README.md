@@ -32,3 +32,6 @@
 
 - axios를 통해 비동기처리 후 배열의 반복을 통해 바인딩한 코드
 <img src='./readme_image/readme05.png' alt='이미지 불러오기 실패'>
+
+### 8월 18일 공유오피스 상세보기 페이지 목업 진행 중
+<img src='./readme_image/detail01.png' alt='이미지 불러오기 실패'>

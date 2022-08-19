@@ -3,4 +3,74 @@
   margin: 0px auto;
   height: 1000px;
   background-color: beige;
+
+  .images {
+    position: relative;
+    width: 1300px;
+    height: 400px;
+
+    .image-black { 
+      position: absolute;
+      width: 1300px;
+      height: 400px;
+      background-color:rgba(0, 0, 0, 0.5);
+    }
+
+    .image {
+      width: 1300px;
+      height: 400px;
+      object-fit: cover;
+    }
+
+    .title-content {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      position: absolute;
+      top: 30%;
+      left: 350px;
+      width: 600px;
+      color: #ffffff;
+      text-align: center;
+      
+      .title {
+        font-size: 35px;
+        font-weight: 700;
+      }
+
+      .content {
+        font-size: 20px;
+      }
+    }
+
+    .map-homepage {
+      display: flex;
+      justify-content: space-between;
+      padding: 0px 50px;
+      position: absolute;
+      top: 60%;
+      left: 400px;
+      width: 500px;
+      height: 100px;
+      font-weight: 700;
+
+      .map {
+        padding: 10px 30px;
+        border-radius: 5px;
+        background-color: #293462;
+        color: #ffffff;
+        font-size: 20px;
+        text-decoration: none;
+      }
+
+      .homepage {
+        padding: 10px 30px;
+        border-radius: 5px;
+        background-color: #293462;
+        color: #ffffff;
+        font-size: 20px;
+        text-decoration: none;
+      }
+    }
+  }
 }

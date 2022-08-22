@@ -35,3 +35,13 @@
 
 ### 8월 18일 공유오피스 상세보기 페이지 목업 진행 중
 <img src='./readme_image/detail01.png' alt='이미지 불러오기 실패'>
+
+## 8월 22(월) 공유오피스 상세보기 페이지
+<img src='./readme_image/readme06.gif' alt='이미지 로드 실패'>
+
+- 쿼리파라미터를 사용하여 쿼리스트링을 통해 데이터 바인딩 구현
+
+<img src='./readme_image/readme07.gif' alt='이미지 로드 실패'>
+
+- 각 공유오피스에 맞는 홈페이지, 지도보기 데이터 바인딩 구현
+

@@ -2,7 +2,6 @@
   width: 1300px;
   margin: 0px auto;
   height: 1000px;
-  background-color: beige;
 
   .images {
     position: relative;
@@ -77,6 +76,25 @@
   .places {
     width: 1300px;
     height: 500px;
-    background-color: aqua;
+    padding-left: 5px;
+    margin-top: 70px;
+
+    .place {
+      display: inline-block;
+      width: 430px;
+      height: 100px;
+      padding-left: 10px;
+      padding-top: 10px;
+      border: 1px solid #eee;
+
+      .place-title {
+        font-size: 25px;
+        font-weight: 700;
+      }
+      .place-address {
+        margin-top: 10px;
+        font-size: 17px;
+      }
+    }
   }
 }

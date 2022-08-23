@@ -19,22 +19,16 @@ const Detail = ({office}) => {
         </div>
       </div>
       <div className='places'>
-        <div className='place col-md-4'>
-          <p className='place-title'>강남점</p>
-          <p className='place-address'>서울시 강남구 테헤란로 102길</p>
-        </div>
-        <div className='place col-md-4'>
-          <p className='place-title'>강남점</p>
-          <p className='place-address'>서울시 강남구 테헤란로 102길</p>
-        </div>
-        <div className='place'>
-          <p className='place-title'>강남점</p>
-          <p className='place-address'>서울시 강남구 테헤란로 102길</p>
-        </div>
-        <div className='place'>
-          <p className='place-title'>강남점</p>
-          <p className='place-address'>서울시 강남구 테헤란로 102길</p>
-        </div>
+        {
+          office[id]?.place.map(({place_title, place_address}) => {
+            return (
+              <div className='place col-md-4' key={place_title}>
+                <p className='place-title'>{place_title}</p>
+                <p className='place-address'>{place_address}</p>
+              </div>
+            )
+          })
+        }
       </div>
     </div>
   )

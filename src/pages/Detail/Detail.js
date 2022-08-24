@@ -19,6 +19,7 @@ const Detail = ({office}) => {
         </div>
       </div>
       <div className='places'>
+        <h4 className='places-head-title'>지점</h4>
         {
           office[id]?.place.map(({place_title, place_address}) => {
             return (

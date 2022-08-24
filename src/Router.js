@@ -5,6 +5,7 @@ import Main from "./pages/Main/Main";
 import List from "./pages/List/List";
 import Detail from "./pages/Detail/Detail";
 import Nav from "./pages/Nav/Nav";
+import Footer from "./pages/Footer/Footer";
 
 const Router = () => {
   const [office, setOffice] = useState([]);
@@ -26,6 +27,7 @@ const Router = () => {
         <Route path='/list' element={<List office={office}/>}/>
         <Route path='/detail/:id' element={<Detail office={office}/>}/>
       </Routes>
+      <Footer />
     </>
   )
 }

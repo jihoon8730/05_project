@@ -6,12 +6,14 @@
   height: 80px;
   margin: 0px auto;
   padding: 0px 30px;
-  background-color: #000000;
+  border-bottom: 1px solid #eeeeee;
+  box-shadow: 0px 2px 5px #eeeeee;
+  background-color: #ffffff;
 
   .nav-logo {
     font-size: 50px;
     font-weight: 700;
-    color: #ffffff;
+    color: #277BC0;
     cursor: pointer;
   }
 
@@ -29,7 +31,9 @@
       border: 0px;
       border-radius: 5px;
       margin-left: 10px;
-      background-color: rgb(255, 255, 255);
+      background-color: #277BC0;
+      color: #ffffff;
+      
     }
   }
 }
